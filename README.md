@@ -15,11 +15,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📌 Pinned Projects
-- 🎨 [My Holi Website](https://github.com/AnjaliMaurya508/my-holi-website) - A colorful festival website
-- 🌈 Holi Vibes - Creative UI design
+- 🌸 [My Holi Website](https://github.com/AnjaliMaurya508/my-holi-website) - A colorful festival website | [Live Demo](https://anjalimaurya508.github.io/my-holi-website/)
+- 🌈 [Holi Vibes](https://github.com/AnjaliMaurya508/holi-vibes) - Creative UI design | [Live Demo](https://anjalimaurya508.github.io/holi-vibes/)
 
 ### 📫 Connect with me
-[LinkedIn](https://linkedin.com/) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/anjali-maurya-...) | [Portfolio](link-yaha-dalo)
 
 ---
 ⭐ From Allahabad with ❤️
