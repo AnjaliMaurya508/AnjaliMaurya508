@@ -39,7 +39,7 @@
 - 💼 **[Portfolio](https://github.com/AnjaliMaurya508/portfolio)** - My personal portfolio | [Live Demo](https://anjalimaurya508.github.io/portfolio/)
 
 ### 📫 Connect with me
-- LinkedIn: [anjali-maurya-](https://www.linkedin.com/in/anjali-maurya-)
+- LinkedIn: https://www.linkedin.com/in/anjali-maurya-63283a360?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Portfolio: https://anjalimaurya508.github.io/portfolio/
 
 <div align="center">
